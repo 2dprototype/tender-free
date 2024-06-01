@@ -1,0 +1,26 @@
+# Standard Library
+
+- [math](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-math.md): Mathematical constants and functions.
+- [os](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-os.md): Platform-independent interface to operating system functionality.
+- [strings](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-strings.md): Regular expressions, string conversion, and manipulation.
+- [times](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-times.md): Time-related functions.
+- [rand](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-rand.md): Random functions.
+- [fmt](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-fmt.md): Formatting functions.
+- [json](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-json.md): JSON functions.
+- [base64](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-base64.md): Base64 encoding and decoding functions.
+- [hex](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-hex.md): Hex encoding and decoding functions.
+- [colors](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-colors.md): Functions for printing colored text to the terminal.
+- [gzip](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-gzip.md): Functions for compressing and decompressing data using gzip.
+- [zip](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-zip.md): Functions for working with ZIP archives.
+- [tar](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-tar.md): Functions for creating and reading TAR archives.
+- [bufio](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-bufio.md): Buffered I/O functions.
+- [crypto](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-crypto.md): Cryptographic functions.
+- [path](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-path.md): Functions for manipulating file paths.
+- [image](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-image.md): Functions for manipulating images.
+- [canvas](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-canvas.md): Functions for drawing graphics on a canvas.
+- [dll](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-dll.md): Functions for interacting with dynamic link libraries.
+- [io](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-io.md): Input and output functions.
+- [audio](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-audio.md): Audio processing functions.
+- [net](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-net.md): Networking functions.
+- [http](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-http.md): Functions for HTTP client and server interactions.
+- [websocket](https://github.com/2dprototype/tender-free/blob/master/docs/stdlib-websocket.md): Functions for working with WebSockets.
